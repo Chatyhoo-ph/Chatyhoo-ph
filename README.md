@@ -23,7 +23,4 @@
 
 ## 📫 Como entrar em contato
 - **Email:** zaqxcvbnm7410852963@gmail.com
-
----
-
-> “Aprendendo todos os dias e criando algo olgo surpreendente.”
+- **Discord:** https://discord.gg/8Puksat3

@@ -1,7 +1,5 @@
 ## 👾 Olá, sou chatyhoo ph e seja bem vindo ao meu perfil
 
-🎮 **Desenvolvedor de Jogos Júnior:** com foco em jogos e software para mobile
-
 👨‍💻 **Principais linguagens:** Java / python
 
 🛠️ **Principal Engine:** ITsMagic engine

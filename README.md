@@ -18,4 +18,4 @@
 ---
 
 ## Entrar em contato 📫
-**Instagram :** https://www.instagram.com/maxuel_santos3077?igsh=MTl5ZWs5YmphdWJydA==  
+**Discord:** https://discord.com/users/875936091172110386
